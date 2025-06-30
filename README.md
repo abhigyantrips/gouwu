@@ -143,14 +143,14 @@ This project is licensed under the terms specified in the [LICENSE](LICENSE) fil
 
 ## 🙏 Acknowledgments
 
-I had no hand in this monstrosity, and this is a good place to mention that this project was almost completely AI-generated. The complete credits go to @Schostl for breaking their head over creating the [original package](https://github.com/Schotsl/Uwuifier) in TypeScript. I just ported that project into Go because I wanted to use it for a brainrot Discord bot I'm about to build (for *actually* learning Go). The [Uwuifier](https://uwuifier.com) project has its own set of acknowledgements, which I will be quoting here.
+I had no hand in this monstrosity, and this is a good place to mention that this project was almost completely AI-generated. The complete credits go to [@Schostl](https://github.com/Schotsl/) for breaking their head over creating the [original package](https://github.com/Schotsl/Uwuifier) in TypeScript. I just ported that project into Go because I wanted to use it for a brainrot Discord bot I'm about to build (for *actually* learning Go). The [Uwuifier](https://uwuifier.com) project has its own set of acknowledgements, which I will be quoting here:
 
-> I was inspired to write this god awful package by
-> [this](https://honk.moe/tools/owo.html) site, I would've given full credit but
-> it appears he got most of the Regex from the OwO Google Chrome extension made by
-> leafysweetsgarden, I would include a link but the page is offline. So short
-> story short: I'd like to give a big thanks to leafysweetsgarden for the Regex
-> and the inspiration!
+> *I was inspired to write this god awful package by*
+> *[this](https://honk.moe/tools/owo.html) site, I would've given full credit but*
+> *it appears he got most of the Regex from the OwO Google Chrome extension made by*
+> *leafysweetsgarden, I would include a link but the page is offline. So short*
+> *story short: I'd like to give a big thanks to leafysweetsgarden for the Regex*
+> *and the inspiration!*
 
 ---
 
